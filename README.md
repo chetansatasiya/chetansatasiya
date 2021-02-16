@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetansatasiya&include_all_commits=true&show_icons=true&theme=radical&layout=compact)
+![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetansatasiya&include_all_commits=true&show_icons=true&theme=shades-of-purple&layout=compact)
 
 <!-- Social Links -->
 
